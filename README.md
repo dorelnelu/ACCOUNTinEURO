@@ -1,2 +1,6 @@
 # ACCOUNTinEURO
 Proyecto PASARELA DE PAGO
+Nombre ACCOUNTinEURO
+Simbolo EUR
+Decimales  8
+Contract  0x107265d07AA7f88b2fC228fD1ca3305E2a57cA6b
